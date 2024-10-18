@@ -33,4 +33,4 @@ BrolyFitness is designed for fitness enthusiasts who are looking to optimize the
 
 ## Project Structure
 
-The project follows a clean, component-based architecture to ensure reusability and maintainability. Below is a brief structure overview:
+The project follows a clean, component-based architecture to ensure reusability and maintainability.
